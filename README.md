@@ -12,7 +12,7 @@ $ pip3 install -r requirements.txt
 ```python
 $ streamlit run duhrer.py
 ```
->>or check it out here: 
+>>or check it out here: https://duhrer.herokuapp.com/
 
 ## Architecture and other details
 
