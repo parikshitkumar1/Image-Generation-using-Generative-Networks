@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run durer.py
+web: sh setup.sh && streamlit run duhrer.py
