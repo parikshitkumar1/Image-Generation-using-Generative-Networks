@@ -10,7 +10,7 @@ st.title("Dürer")
 
 
 
-st.subheader("generative adversarial network generated paintings of Albrecht Dürer")
+st.subheader("generative adversarial network generated Albrecht Dürer paintings")
 
 
 st.write("Reload for more paintings")
