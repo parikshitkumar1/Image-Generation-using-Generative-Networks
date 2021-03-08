@@ -1,4 +1,5 @@
 ---
+
 # Durer
 ## Motivation
 To create a web app based on WGAN-GP that generates realistic paintings of Albrecht Dürer
