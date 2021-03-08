@@ -19,6 +19,12 @@ $ streamlit run durer.py
 
 <img src="https://user-images.githubusercontent.com/52780573/110354770-8a452300-805e-11eb-817c-3045e33b536a.gif" data-canonical-src="" width="800" height="500" />
 
+## Results
+
+#### finals scores: loss_g: 0.5128, loss_d: 1.1873, real_score: 0.5859, fake_score: 0.0469
+
+<img src="https://user-images.githubusercontent.com/52780573/110355252-07709800-805f-11eb-8816-7e07103fad94.png" data-canonical-src="" width="200" height="150" />
+
 
 
 ## Might Do
