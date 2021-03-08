@@ -26,6 +26,9 @@ $ streamlit run durer.py
 <img src="https://user-images.githubusercontent.com/52780573/110355252-07709800-805f-11eb-8816-7e07103fad94.png" data-canonical-src="" width="500" height="350" />
 
 
+<img src="https://user-images.githubusercontent.com/52780573/110355448-3f77db00-805f-11eb-80d1-d853d1e4140a.png" data-canonical-src="" width="500" height="350" />
+
+
 
 ## Might Do
 - [ ] Upload WGAN-GP Notebook
