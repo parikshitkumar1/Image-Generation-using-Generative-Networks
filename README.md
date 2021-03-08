@@ -10,7 +10,7 @@ $ pip3 install -r requirements.txt
 ```
 ## To run
 ```python
-$ streamlit run durer.py
+$ streamlit run duhrer.py
 ```
 >>or check it out here: 
 
