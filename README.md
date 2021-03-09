@@ -16,13 +16,13 @@ $ streamlit run duhrer.py
 
 ## -->
 
-<img src="https://user-images.githubusercontent.com/52780573/110474334-8ddfb500-8105-11eb-96d7-47cb97f820c9.png" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/110474334-8ddfb500-8105-11eb-96d7-47cb97f820c9.png" data-canonical-src="" width="900" height="500" />
 
 ## Architecture and other details
 
 #### Trained for nearly 150 epochs on approximately 8000 paintings of Albrecht Dürer
 
-<img src="https://user-images.githubusercontent.com/52780573/110354770-8a452300-805e-11eb-817c-3045e33b536a.gif" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/110354770-8a452300-805e-11eb-817c-3045e33b536a.gif" data-canonical-src="" width="900" height="500" />
 
 
 #### w1 ---> weights saved at 100 epochs, w2 ---> weights saved at 150 epochs, total epochs ~150
