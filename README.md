@@ -26,6 +26,8 @@ $ streamlit run duhrer.py
 
 #### Partial Dataset ---> https://www.kaggle.com/ikarus777/best-artworks-of-all-time
 
+#### all images resized to 64 x 64 x 3(channel)
+
 ## Results
 
 #### finals scores: loss_g: 0.5128, loss_d: 1.1873, real_score: 0.5859, fake_score: 0.0469
