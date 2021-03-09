@@ -14,6 +14,10 @@ $ streamlit run duhrer.py
 ```
 >>or check it out here: https://duhrer.herokuapp.com/
 
+## -->
+
+<img src="https://user-images.githubusercontent.com/52780573/110474334-8ddfb500-8105-11eb-96d7-47cb97f820c9.png" data-canonical-src="" width="800" height="500" />
+
 ## Architecture and other details
 
 #### Trained for nearly 150 epochs on approximately 8000 paintings of Albrecht Dürer
