@@ -2,7 +2,7 @@
 
 # Durer
 ## Motivation
-To create a web app based on WGAN-GP that generates realistic paintings of Albrecht Dürer
+To create a web app based on WGAN-GP that generates realistic Albrecht Dürer paintings
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
