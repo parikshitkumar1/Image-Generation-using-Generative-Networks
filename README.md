@@ -20,7 +20,7 @@ $ streamlit run duhrer.py
 
 ## Architecture and other details
 
-#### Trained for nearly 150 epochs on approximately 8000 paintings of Albrecht Dürer
+#### Trained for nearly 150 epochs on approximately 8000 Albrecht Dürer paintings
 
 <img src="https://user-images.githubusercontent.com/52780573/110354770-8a452300-805e-11eb-817c-3045e33b536a.gif" data-canonical-src="" width="900" height="500" />
 
