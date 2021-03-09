@@ -5,6 +5,21 @@ import torch.nn as nn
 import streamlit as st
 from utils import *
 
+st.markdown(
+    """
+    <style>
+    .reportview-container {
+        background: url("https://user-images.githubusercontent.com/52780573/110473221-4efd2f80-8104-11eb-9b61-577ab3d2d584.png")
+    }
+   .sidebar .sidebar-content {
+        background: url("url_goes_here")
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
 
 st.title("Dürer")
 
