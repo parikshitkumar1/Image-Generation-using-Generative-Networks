@@ -36,6 +36,8 @@ $ python3 check.py
 
 #### Trained for nearly 150 epochs on approximately 8000 Albrecht Dürer paintings
 
+#### LapSRN_x8 used to upscale paintings by a factor of 8
+
 <img src="https://user-images.githubusercontent.com/52780573/110354770-8a452300-805e-11eb-817c-3045e33b536a.gif" data-canonical-src="" width="900" height="500" />
 
 
@@ -47,6 +49,17 @@ $ python3 check.py
 #### all images resized to 64 x 64 x 3(channel)
 
 ## Results
+
+
+<div>
+    <img src="https://user-images.githubusercontent.com/52780573/110626755-212cef00-81c7-11eb-82be-06572a149605.png" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626757-22f6b280-81c7-11eb-9b85-931a95c36ccb.png" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626762-238f4900-81c7-11eb-9b6b-73cd42601306.png" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626764-2427df80-81c7-11eb-9dc4-fbc63dd8740d.png" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626768-24c07600-81c7-11eb-9f5f-6bbd7bc7bdac.jpeg" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626769-24c07600-81c7-11eb-959a-bcf5d5eb70cc.png" width="70" height="70"/>
+   
+</div>
 
 #### finals scores: loss_g: 0.5128, loss_d: 1.1873, real_score: 0.5859, fake_score: 0.0469
 
@@ -62,14 +75,5 @@ $ python3 check.py
 
 
 
-<div>
-    <img src="https://user-images.githubusercontent.com/52780573/110626755-212cef00-81c7-11eb-82be-06572a149605.png" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626757-22f6b280-81c7-11eb-9b85-931a95c36ccb.png" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626762-238f4900-81c7-11eb-9b6b-73cd42601306.png" width="36" height="30"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626764-2427df80-81c7-11eb-9dc4-fbc63dd8740d.png" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626768-24c07600-81c7-11eb-9f5f-6bbd7bc7bdac.jpeg" width="36" height="30"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626769-24c07600-81c7-11eb-959a-bcf5d5eb70cc.png" width="30" height="30"/>
-   
-</div>
 
 ---
