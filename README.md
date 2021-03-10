@@ -52,12 +52,12 @@ $ python3 check.py
 
 
 <div>
-    <img src="https://user-images.githubusercontent.com/52780573/110626755-212cef00-81c7-11eb-82be-06572a149605.png" width="70" height="70"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626757-22f6b280-81c7-11eb-9b85-931a95c36ccb.png" width="70" height="70"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626762-238f4900-81c7-11eb-9b6b-73cd42601306.png" width="70" height="70"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626764-2427df80-81c7-11eb-9dc4-fbc63dd8740d.png" width="70" height="70"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626768-24c07600-81c7-11eb-9f5f-6bbd7bc7bdac.jpeg" width="70" height="70"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626769-24c07600-81c7-11eb-959a-bcf5d5eb70cc.png" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626755-212cef00-81c7-11eb-82be-06572a149605.png" width="110" height="110"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626757-22f6b280-81c7-11eb-9b85-931a95c36ccb.png" width="110" height="110"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626762-238f4900-81c7-11eb-9b6b-73cd42601306.png" width="110" height="110"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626764-2427df80-81c7-11eb-9dc4-fbc63dd8740d.png" width="110" height="110"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626768-24c07600-81c7-11eb-9f5f-6bbd7bc7bdac.jpeg" width="110" height="110"/>
+    <img src="https://user-images.githubusercontent.com/52780573/110626769-24c07600-81c7-11eb-959a-bcf5d5eb70cc.png" width="110" height="110"/>
    
 </div>
 
