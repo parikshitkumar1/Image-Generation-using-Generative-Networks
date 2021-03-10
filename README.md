@@ -36,7 +36,7 @@ $ python3 check.py
 
 #### Trained for nearly 150 epochs on approximately 8000 Albrecht Dürer paintings
 
-#### LapSRN_x8 used to upscale paintings by a factor of 8
+#### LapSRN_x8 used to upscale paintings by a factor of 8 (pretrained)
 
 <img src="https://user-images.githubusercontent.com/52780573/110354770-8a452300-805e-11eb-817c-3045e33b536a.gif" data-canonical-src="" width="900" height="500" />
 
