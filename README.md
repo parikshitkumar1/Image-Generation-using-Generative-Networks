@@ -27,7 +27,9 @@ $ python3 check.py
 
 #### super-res
 <img src="https://user-images.githubusercontent.com/52780573/110626302-90561380-81c6-11eb-9313-8315c1c1d21c.png" data-canonical-src="" width="900" height="500" />
+
 #### non super-res
+
 <img src="https://user-images.githubusercontent.com/52780573/110474334-8ddfb500-8105-11eb-96d7-47cb97f820c9.png" data-canonical-src="" width="900" height="500" />
 
 ## Architecture and other details
