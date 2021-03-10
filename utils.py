@@ -18,7 +18,7 @@ def denorm(img_tensors):
 
 def new():
 	for i in range(1,2):
-	  generator = torch.load("WEIGHTS/w2.pth", map_location = "cpu")
+	  generator = torch.load("WEIGHTS/w1.pth", map_location = "cpu")
 	  generator.eval()	
 	  device = torch.device('cpu')
 	  generator.to(device);
@@ -60,7 +60,7 @@ def new():
 
 
 	for i in range(1,2):
-	  generator = torch.load("WEIGHTS/w1.pth", map_location = "cpu")
+	  generator = torch.load("WEIGHTS/w2.pth", map_location = "cpu")
 	  generator.eval()	
 	  device = torch.device('cpu')
 	  generator.to(device);
