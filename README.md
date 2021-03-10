@@ -8,11 +8,20 @@ Python 3.8 or above with all [requirements](requirements.txt) dependencies insta
 ```python
 $ pip3 install -r requirements.txt
 ```
-## To run
+## To run non super-res version
 ```python
 $ streamlit run duhrer.py
 ```
 >>or check it out here: https://duhrer.herokuapp.com/
+## To run super-res version
+```python
+$ streamlit run durer.py
+```
+## To check out paintings with different super-res manaully
+```python
+$ python3 check.py
+```
+
 
 ## -->
 
